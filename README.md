@@ -1,3 +1,3 @@
 # RibbonEditorJP
-Download [RibbonEditorJP.zip]
+Download [RibbonEditorJP]
 https://github.com/ExcelVBAer/RibbonEditorJP/releases/tag/1.11
